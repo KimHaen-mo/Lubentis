@@ -99,7 +99,7 @@ public class Manage {
 							}
 						}
 					} else {
-						System.out.println("않되는대요");
+						System.out.println("않됬어요");
 						break modroop;
 					}
 				}
